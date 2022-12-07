@@ -1,0 +1,4 @@
+get_the_hell_out_of_here
+pandas
+subprocess_print_and_capture
+~et_the_hell_out_of_here
