@@ -1,3 +1,7 @@
+# Use:
+# https://github.com/hansalemaos/usefuladb
+# https://github.com/hansalemaos/usefuladbplus
+
 # Executes GREP on your Android device, and returns a Pandas DataFrame 
 
 ```python
